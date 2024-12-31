@@ -33,7 +33,35 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=TaushiqB&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,anaconda,androidstudio,angular,arch,arduino,autocad,azure,babel,bash,bootstrap,c,cs,cpp,cassandra,css,d3,dart,debian,django,docker,dotnet,dynamodb,eclipse,elasticsearch,express,fastapi,firebase,flask,flutter,git,github,githubactions,gitlab,grafana,heroku,html,htmx,idea,ai,java,js,jenkins,jquery,kafka,kotlin,kubernetes,latex,linux,maven,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,opencv,postgres,postman,powershell,prometheus,prometheus,pug,pycharm,py,pytorch,rabbitmq,raspberrypi,react,redhat,redis,replit,spring,sqlite,scala,sklearn,selenium,tailwind,tensorflow,terraform,threejs,ts,ubuntu,vercel,visualstudio,vite,vscode&perline=8)](https://skillicons.dev)
+### 💻 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,c,dart,kotlin,scala,bash&perline=11)](https://skillicons.dev)
+
+### 📚 Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,cassandra,dynamodb,redis&perline=7)](https://skillicons.dev)
+
+### 📦 Frameworks & Libraries
+[![Frameworks](https://skillicons.dev/icons?i=django,flask,fastapi,spring,angular,react,vue,express,tailwind,bootstrap&perline=10)](https://skillicons.dev)
+
+### ☁️ Cloud Platforms
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,heroku,netlify,vercel&perline=6)](https://skillicons.dev)
+
+### ⚙️ DevOps & Tools
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,git,github,githubactions,gitlab,prometheus,grafana&perline=10)](https://skillicons.dev)
+
+### 🛠️ IDEs & Development Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,eclipse,maven&perline=7)](https://skillicons.dev)
+
+### 📐 Design & Prototyping
+[![Design](https://skillicons.dev/icons?i=autocad&perline=1)](https://skillicons.dev)
+
+### 🧪 Testing Tools
+[![Testing](https://skillicons.dev/icons?i=selenium,postman&perline=2)](https://skillicons.dev)
+
+### 📊 Data Science & Machine Learning
+[![Data Science](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&perline=5)](https://skillicons.dev)
+
+### 🔌 Other Tools & Platforms
+[![Others](https://skillicons.dev/icons?i=arduino,raspberrypi,redhat,replit,nginx,powershell,latex,htmx,pug,nextjs&perline=10)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TaushiqB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -48,10 +76,14 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 <div>
     <a href="[https://linkedin.com/in/https://www.linkedin.com/in/taushiq-balamurugan-446920267/]">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="40" height="40"/>
+    </a>
+    <a href="https://leetcode.com/your-username/" target="_blank">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/36/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="35" height="35"/>
     </a>
 </div>
 
+- 📫 Reach me at **taushiqbalamurugan@gmail.com**
 
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=TaushiqB&label=Profile%20views&color=0e75b6&style=flat" alt="TaushiqB" /> </a>
 
