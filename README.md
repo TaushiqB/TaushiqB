@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 An aspiring Software Engineer.
 
 <div>
-    <img src="./Hello, Its Taushiq Balamurugan (2).gif" alt="About Me Terminal GIF" width="300"/>
+    <img src="./Hello, Its Taushiq Balamurugan (2).gif" alt="About Me Terminal GIF" width="500"/>
 </div>
 
 
