@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **TaushiqB/TaushiqB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+## Hi there 👋
 
 # 💫 About Me:
 An aspiring Software Engineer.
