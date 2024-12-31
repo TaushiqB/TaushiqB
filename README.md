@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi There 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Colombia&pause=1000&color=F7F7F7&background=FF000033&width=435&lines=Hi!+I+am+Taushiq+Balamurugan;Software+Engineer;Software+Development+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Hi!+I+am+Taushiq+Balamurugan;Software+Engineer;Software+Development+Engineer)](https://git.io/typing-svg)
 
 # 💫 About Me:
 <div>
