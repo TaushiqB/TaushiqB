@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-# Hi there 👋
+# 👋 Hi There 
 
 # 💫 About Me:
 An aspiring Software Engineer.
