@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 # 👋 Hi There 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Colombia&pause=1000&color=F7F7F7&background=FF000033&width=435&lines=Hi!+I+am+Taushiq+Balamurugan;Software+Engineer;Software+Development+Engineer)](https://git.io/typing-svg)
+
 # 💫 About Me:
 <div>
     <img src="./Hello, Its Taushiq Balamurugan (2).gif" alt="About Me Terminal GIF" width="500"/>
@@ -41,13 +43,16 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TaushiqB&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=TaushiqB&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taushiq-balamurugan-446920267/) 
+<div>
+    <a href="[https://linkedin.com/in/https://www.linkedin.com/in/taushiq-balamurugan-446920267/]">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 
 
