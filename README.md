@@ -24,8 +24,11 @@ Here are some ideas to get you started:
     <img src="./Hello, Its Taushiq Balamurugan (2).gif" alt="About Me Terminal GIF" width="500"/>
 </div>
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TaushiqB&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,9 +36,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=TaushiqB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TaushiqB&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaushiqB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TaushiqB&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
