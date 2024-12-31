@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=TaushiqB&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,anaconda,androidstudio,angular,arch,arduino,autocad,azure,babel,bash,bootstrap,c,cs,cpp,cassandra,css,d3,dart,debian,django,docker,dotnet,dynamodb,eclipse,elasticsearch,express,fastapi,firebase,flask,flutter,git,github,githubactions,gitlab,grafana,heroku,html,htmx,idea,ai,java,js,jenkins,jquery,kafka,kotlin,kubernetes,latex,linux,maven,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,opencv,postgres,postman,powershell,prometheus,prometheus,pug,pycharm,py,pytorch,rabbitmq,raspberrypi,react,redhat,redis,replit,spring,sqlite,scala,sklearn,selenium,tailwind,tensorflow,terraform,threejs,ts,ubuntu,vercel,visualstudio,vite,vscode&perline=8)](https://skillicons.dev)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TaushiqB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TaushiqB&theme=tokyonight&hide_border=false)<br/>
@@ -51,6 +52,8 @@ Here are some ideas to get you started:
     </a>
 </div>
 
+
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=TaushiqB&label=Profile%20views&color=0e75b6&style=flat" alt="TaushiqB" /> </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
