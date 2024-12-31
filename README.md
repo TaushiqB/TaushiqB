@@ -20,10 +20,16 @@ Here are some ideas to get you started:
 # 💫 About Me:
 An aspiring Software Engineer.
 
-<div>
-    <img src="./Hello, Its Taushiq Balamurugan.gif" alt="About Me Terminal GIF"/>
-</div>
+<style>
+    .responsive-img {
+        width: 300px; 
+        height: auto; 
+    }
+</style>
 
+<div>
+    <img src="./Hello, Its Taushiq Balamurugan.gif" alt="About Me Terminal GIF" class="responsive-img"/>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taushiq-balamurugan-446920267/) 
