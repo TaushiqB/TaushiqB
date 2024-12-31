@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
 # 💫 About Me:
 An aspiring Software Engineer.
 
@@ -40,5 +42,8 @@ An aspiring Software Engineer.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TaushiqB&icon=0&color=9)](https://visitcount.itsvg.in)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
