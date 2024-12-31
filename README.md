@@ -32,36 +32,8 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TaushiqB&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-# 💻 Tech Stack:
-### 💻 Programming Languages
-[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,c,dart,kotlin,scala,bash&perline=11)](https://skillicons.dev)
-
-### 📚 Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,cassandra,dynamodb,redis&perline=7)](https://skillicons.dev)
-
-### 📦 Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=django,flask,fastapi,spring,angular,react,vue,express,tailwind,bootstrap&perline=10)](https://skillicons.dev)
-
-### ☁️ Cloud Platforms
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,heroku,netlify,vercel&perline=6)](https://skillicons.dev)
-
-### ⚙️ DevOps & Tools
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,git,github,githubactions,gitlab,prometheus,grafana&perline=10)](https://skillicons.dev)
-
-### 🛠️ IDEs & Development Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,androidstudio,eclipse,maven&perline=7)](https://skillicons.dev)
-
-### 📐 Design & Prototyping
-[![Design](https://skillicons.dev/icons?i=autocad&perline=1)](https://skillicons.dev)
-
-### 🧪 Testing Tools
-[![Testing](https://skillicons.dev/icons?i=selenium,postman&perline=2)](https://skillicons.dev)
-
-### 📊 Data Science & Machine Learning
-[![Data Science](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&perline=5)](https://skillicons.dev)
-
-### 🔌 Other Tools & Platforms
-[![Others](https://skillicons.dev/icons?i=arduino,raspberrypi,redhat,replit,nginx,powershell,latex,htmx,pug,nextjs&perline=10)](https://skillicons.dev)
+# 💻 Skills:
+[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,c,dart,kotlin,scala,bash,mysql,postgres,mongodb,sqlite,cassandra,dynamodb,redis,django,flask,fastapi,spring,angular,react,vue,express,tailwind,bootstrap,aws,gcp,azure,heroku,netlify,vercel,docker,kubernetes,jenkins,terraform,git,github,githubactions,gitlab,prometheus,grafana,vscode,visualstudio,idea,pycharm,androidstudio,eclipse,maven,autocad,selenium,postman,tensorflow,pytorch,sklearn,opencv,anaconda,arduino,raspberrypi,redhat,replit,nginx,powershell,latex,htmx,pug,nextjs&perline=20)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TaushiqB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
