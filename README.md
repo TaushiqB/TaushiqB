@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=TaushiqB&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Skills:
-[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,c,dart,kotlin,scala,bash,mysql,postgres,mongodb,sqlite,cassandra,dynamodb,redis,django,flask,fastapi,spring,angular,react,vue,express,tailwind,bootstrap,aws,gcp,azure,heroku,netlify,vercel,docker,kubernetes,jenkins,terraform,git,github,githubactions,gitlab,prometheus,grafana,vscode,visualstudio,idea,pycharm,androidstudio,eclipse,maven,autocad,selenium,postman,tensorflow,pytorch,sklearn,opencv,anaconda,arduino,raspberrypi,redhat,replit,nginx,powershell,latex,htmx,pug,nextjs&perline=20)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,c,dart,kotlin,scala,bash,mysql,postgres,mongodb,sqlite,cassandra,dynamodb,redis,django,flask,fastapi,spring,angular,react,vue,express,tailwind,bootstrap,aws,gcp,azure,heroku,netlify,vercel,docker,kubernetes,jenkins&perline=20)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TaushiqB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
