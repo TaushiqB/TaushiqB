@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Hi!+I+am+Taushiq+Balamurugan;Software+Engineer;Software+Development+Engineer)](https://git.io/typing-svg)
 
-# 💫 About Me:
-<div>
-    <img src="./Hello, Its Taushiq Balamurugan (2).gif" alt="About Me Terminal GIF" width="500"/>
-</div>
-
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
