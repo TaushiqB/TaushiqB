@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 [![Languages](https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,c,dart,kotlin,scala,bash,mysql,postgres,mongodb,sqlite,cassandra,dynamodb,redis,django,flask,fastapi,spring,angular,react,vue,express,tailwind,bootstrap,aws,gcp,azure,heroku,netlify,vercel,docker,kubernetes,jenkins&perline=20)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TaushiqB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TaushiqB&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaushiqB&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![TaushiqB's Stats](https://github-readme-stats.vercel.app/api?username=TaushiqB&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 
 
