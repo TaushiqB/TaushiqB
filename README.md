@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <a href="[https://linkedin.com/in/https://www.linkedin.com/in/taushiq-balamurugan-446920267/]">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="40" height="40"/>
     </a>
-    <a href="https://leetcode.com/your-username/" target="_blank">
+    <a href="https://leetcode.com/Taushiq8/" target="_blank">
         <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/36/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="35" height="35"/>
     </a>
 </div>
